@@ -47,7 +47,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="@/static/images/uploads/rute.PNG"
         />
       </div>
     </div>
