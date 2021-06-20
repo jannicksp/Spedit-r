@@ -13,6 +13,7 @@
         />
       </div>
       
+      <div class="home__welcome markdown">
       <h1> Information</h1>
        <ul> 
           <li> - Port Kode = 1234 + firkant </li> <br>
@@ -23,6 +24,7 @@
           <li> - Ved stykgods: Kør til Frejas Terminal Ørstedsvej 11, 8660 Skanderborg og HUSK at melde traileren til på terminalkontoret. </li><br>
           <li> - Trailertype: Denne kunde bruger trailer med og uden lift + Box trailer. </li><br>
         </ul>
+        </div>
     </div>
   </section>
 </template>
