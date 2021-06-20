@@ -3,6 +3,15 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
+   
+        <ul> 
+        <li> Din tomme trailer må ALDRIG stilles i port 5 (Vareindlevering). </li>
+        <li> Vores tomme trailere må stilles i Port 1-7 og den læssede trailer står som regel i port 3. </li>
+        <li> Kontaktperson: Lagermand Børge TLF. 20126157. Kan kontaktes vedrørende manglendee følgesedler og hjælp ved læsning.</li>
+        <li> Vi kører både stykgods og full loads for denne kunde. Ring hvis du er i tvivl om hvad du skal med din trailer.</li>
+        <li> Ved stykgods: Kør til Frejas Terminal Ørstedsvej 11, 8660 Skanderborg og HUSK at melde traileren til på terminalkontoret. </li>
+        <li> Trailertype: Denne kunde bruger trailer med og uden lift + Box trailer. </li>
+        </ul>
 
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
